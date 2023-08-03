@@ -53,7 +53,13 @@ body {
 }
 .grid > a > img {
   width:5em;
+  height:3em;
+  transition: all .25s;
+}
+.grid > a > img:hover {
+  width:5em;
   height:2.5em;
+  transform: translate(0,14%);
 }
 #content > .grid {
   padding: 0 12.5% 0 12.5%;
