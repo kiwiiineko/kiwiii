@@ -1,2 +1,2 @@
 # kiwiii
-[Page](https://github.com/MushroomFX/kiwiii)
+[Page](https://mushroomfx.github.io/kiwiii/)
